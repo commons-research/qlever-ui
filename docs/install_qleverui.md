@@ -18,7 +18,7 @@ We provide a [docker image](#building-the-qlever-ui-docker-image) as well as ins
 We assume [docker to be installed](https://docs.docker.com/get-docker/) on your machine for the following instructions. 
 1. To get started clone the QLever UI repo on your machine:
     ```shell
-    git clone https://github.com/ad-freiburg/qlever-ui.git qlever-ui
+    git clone https://github.com/commons-research/qlever-ui.git qlever-ui
     cd qlever-ui
     ```
 2. Optionally [adjust settings](#configuration)
